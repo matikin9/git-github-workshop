@@ -3,7 +3,7 @@ title: Git + GitHub Workshop
 collections:
   topics:
     output: true
-    permalink: git-github-workshop/:name
+    permalink: :name
 
 defaults:
   - scope:
